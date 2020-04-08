@@ -23,11 +23,11 @@ Custom top-bar notification for nordvpn. Connection status to notify of sudden d
 
 When connected you will see blue nordvpn logo. 
 
-[](nordvpn_on1.png)
+![](nordvpn_on1.png)
 
 If you press on the logo you will see
 
-[](nordvpn_on2.png)
+![](nordvpn_on2.png)
 
 First button is to disconnect and the rest is the output of `nordvpn status`.
 
@@ -35,11 +35,11 @@ First button is to disconnect and the rest is the output of `nordvpn status`.
 
 When disconnected you will see red nordvpn logo.
 
-[](nordvpn_off1.png)
+![](nordvpn_off1.png)
 
 If you press on the logo you will see
 
-[](nordvpn_off2.png)
+![](nordvpn_off2.png)
 
 First button is to connect and the rest is the output of `nordvpn status`.
 
