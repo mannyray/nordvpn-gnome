@@ -16,6 +16,8 @@ Custom top-bar notification for nordvpn. Connection status to notify of sudden d
 
 7. (Bonus) In `Ubuntu > Show applications > Startup Applications Preferences` then add `Command`: `nordvpn connect`. Now on every boot up, you will auto connect to nordvpn.
 
+This was tested on Ubuntu 18.04 with Gnome version `3.28.2`. Argos version from 2017 [commit](https://github.com/p-e-w/argos/tree/08265c60783eecd25f68b32b0367dd87eb47bd35) since newer versions did not work. To use older version, replace the contents of `argos@pew.worldwidemann.com` in step 2.
+
 
 ## Behaviour 
 
